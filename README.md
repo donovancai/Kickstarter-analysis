@@ -46,18 +46,18 @@ By sorting data through a pivot chart and sorting by successful campaigns, a lin
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-   The first outcome from this analysis is that May is the month with the most successful campaigns. 
+   > The first outcome from this analysis is that May is the month with the most successful campaigns. 
    
-   The Second outcome is that December is the month with the fewest successful campaigns. Louise should seek to launch her campaign in May and avoid launching in December at all costs. 
+   > The Second outcome is that December is the month with the fewest successful campaigns. Louise should seek to launch her campaign in May and avoid launching in December at all costs. 
 
 - What can you conclude about the Outcomes based on Goals?
-   Campaigns with goals less than $4999 have over 72% success rate, and campaigns with goals between $5000 to $19999 have success rates of about 53%. Louis should reconsider her $10000 budget for the play if she were to have a higher chance at success. 
+   > Campaigns with goals less than $4999 have over 72% success rate, and campaigns with goals between $5000 to $19999 have success rates of about 53%. Louis should reconsider her $10000 budget for the play if she were to have a higher chance at success. 
 
 - What are some limitations of this dataset?
-   One of the limitations of this dataset is that there is a limited quantity of campaigns of higher funding goals, which would help determining whether higher funding goals truly result in higher failure rates. Another limitation is that the analysis assumes that individual years have no impact on success rates, which is a bit of a stretch. Going to see a play is considered a discretionary activity, an increase in discretionary spending is linked to strong economic environments. By ignoring individual years, economic activity and personal income during those year cannot be taken into affect in forming a conclusion. 
+   > One of the limitations of this dataset is that there is a limited quantity of campaigns of higher funding goals, which would help determining whether higher funding goals truly result in higher failure rates. Another limitation is that the analysis assumes that individual years have no impact on success rates, which is a bit of a stretch. Going to see a play is considered a discretionary activity, an increase in discretionary spending is linked to strong economic environments. By ignoring individual years, economic activity and personal income during those year cannot be taken into affect in forming a conclusion. 
 
 - What are some other possible tables and/or graphs that we could create?
-   We can dive deeper into outcomes based on launch date by breaking down each month with categories we created for Outcome Based on Goals. This way we can see if the month of May has also been historically good for launching campaigns with goals over $10000. 
+   > We can dive deeper into outcomes based on launch date by breaking down each month with categories we created for Outcome Based on Goals. This way we can see if the month of May has also been historically good for launching campaigns with goals over $10000. 
    
-   As well, another analysis can be done to find correlation between funding goals and countries. This might reveal countries that are indifferent to campaigns with higher goals and Louise can choose to launch her campaign there instead. 
+   > As well, another analysis can be done to find correlation between funding goals and countries. This might reveal countries that are indifferent to campaigns with higher goals and Louise can choose to launch her campaign there instead. 
 
