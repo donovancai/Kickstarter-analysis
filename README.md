@@ -22,14 +22,14 @@
 Although there were eight years of data presented, emphasis was given to individual months instead, due to the assumption that any individual year did not have any significant impact on campaigns being successful. Therefore, months across different years were grouped together in this analysis. 
 By sorting data through a pivot chart and sorting by successful campaigns, a line graph was generated showing that May in any given year had the most number of successful campaigns (111 campaigns, as shown in the chart below). As such, I will recommend Louise to launch her campaign in May as well to guaranteed the best odds of it succeeding.
 
-[Theater_Outcomes_vs_Launch.png](https://github.com/donovancai/Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+[Theater_Outcomes_vs_Launch.png](https://github.com/donovancai/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 <br/>
 
 ### Analysis of Outcomes Based on Goals
 	In this analysis, the focus was the fundraising goals. The historic Kickstarter data had a wide range of goals, and as such 12 categories of goal breakdown were created. The exact breakdown can be seen in the chart below. 
 	It can be seen that campaigns with goals less than $1000 has the highest success rate at 75.81%. Given Louise’s budget of just over $10000, historic data shows campaigns with goals between $10000 to $14999 only had a success rate of 54.17%, while failure in that same category was 45.83%. Although campaigns with goals less than $1000 has the highest success rate, it is unlikely that Louise will be able to pull off the production with that amount. 
 	 Looking at the chart below, campaign goals between $35000 to $39999 and $40000 to $44999 have success rates of 66.67%, which looks pretty good. However, it will be noted to Louise that these statistics should be taken with caution as there were only 9 data points between these two categories, which shows strong sample selection bias. 
-[Outcomes_vs_Goals.png](https://github.com/donovancai/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+[Outcomes_vs_Goals.png](https://github.com/donovancai/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 <br/>
 
 ### Challenges and Difficulties Encountered
