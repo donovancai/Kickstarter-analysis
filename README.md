@@ -20,7 +20,8 @@
 
 ### Analysis of Outcomes Based on Launch Date
 Although there were eight years of data presented, emphasis was given to individual months instead, due to the assumption that any individual year did not have any significant impact on campaigns being successful. Therefore, months across different years were grouped together in this analysis. 
-By sorting data through a pivot chart and sorting by successful campaigns, a line graph was generated showing that May in any given year had the most number of successful campaigns (111 campaigns, as shown in the chart below). As such, I will recommend Louise to launch her campaign in May as well to guaranteed the best odds of it succeeding. 
+By sorting data through a pivot chart and sorting by successful campaigns, a line graph was generated showing that May in any given year had the most number of successful campaigns (111 campaigns, as shown in the chart below). As such, I will recommend Louise to launch her campaign in May as well to guaranteed the best odds of it succeeding.
+
 [Theater_Outcomes_vs_Launch.png](https://github.com/donovancai/Kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 <br/>
 
