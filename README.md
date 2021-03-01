@@ -33,7 +33,7 @@ By sorting data through a pivot chart and sorting by successful campaigns, a lin
 <br/>
 
 ### Challenges and Difficulties Encountered
-
+One challenge Louise would encounter could be the low success rate seen 
 
 
 ## Results
