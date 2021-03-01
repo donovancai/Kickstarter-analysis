@@ -2,7 +2,7 @@
 >  For Louise
 ><br/>
 ## Overview of This Project 
-	This project aims to identify factors and trends in Kickstarter campaigns that were successfully funded in the past, particularly those in the “theatrical plays” category. Analysis will be completed by using Excel, with tools and methods such as pivot tables, pivot graphs and various formulae. By analyzing past successful campaigns, we can identify effective methods that can be applied to Louise’s campaign to help her become fully funded.
+This project aims to identify factors and trends in Kickstarter campaigns that were successfully funded in the past, particularly those in the “theatrical plays” category. Analysis will be completed by using Excel, with tools and methods such as pivot tables, pivot graphs and various formulae. By analyzing past successful campaigns, we can identify effective methods that can be applied to Louise’s campaign to help her become fully funded.
 <br/>  
    
 ### Purpose
@@ -28,12 +28,14 @@ By sorting data through a pivot chart and sorting by successful campaigns, a lin
 ### Analysis of Outcomes Based on Goals
 	In this analysis, the focus was the fundraising goals. The historic Kickstarter data had a wide range of goals, and as such 12 categories of goal breakdown were created. The exact breakdown can be seen in the chart below. 
 	It can be seen that campaigns with goals less than $1000 has the highest success rate at 75.81%. Given Louise’s budget of just over $10000, historic data shows campaigns with goals between $10000 to $14999 only had a success rate of 54.17%, while failure in that same category was 45.83%. Although campaigns with goals less than $1000 has the highest success rate, it is unlikely that Louise will be able to pull off the production with that amount. 
-	 Looking at the chart below, campaign goals between $35000 to $39999 and $40000 to $44999 have success rates of 66.67%, which looks pretty good. However, it will be noted to Louise that these statistics should be taken with caution as there were only 9 data points between these two categories, which shows strong sample selection bias. 
+	Looking at the chart below, campaign goals between $35000 to $39999 and $40000 to $44999 have success rates of 66.67%, which looks pretty good. However, it will be noted to Louise that these statistics should be taken with caution as there were only 9 data points between these two categories, which shows strong sample selection bias. 
 [Outcomes_vs_Goals.png](https://github.com/donovancai/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 <br/>
 
 ### Challenges and Difficulties Encountered
-One challenge Louise would encounter could be the low success rate seen 
+The biggest challenge trying to determine whether partifuclar campaign goals had significant impact on success rate is sample selection bias. Looking at the pivot table below shoiwng the breakdown of the campiagn goal categories, it can clearly be seen that the majority of data points are in the first five categories. As previously stated, campaign goals between $35000 to $39999 and $40000 to $44999 have success rates of 66.67%, but there were only 9 data points between the two categoties. This is evidence that even if the chart is producing desiring results, one must determine whether there is truly enough underlying data to back it up. 
+
+[Outcomes_Pivot](https://github.com/donovancai/Kickstarter-analysis/blob/main/Resources/Outcome_vs_Goals_Pivot.PNG)
 
 
 ## Results
