@@ -1,4 +1,4 @@
-# Kickstarting **Fever**: An Analysis
+# Kickstarting *Fever*: An Analysis
 >  For Louise
 
 
@@ -11,18 +11,19 @@
 <br/>  
    
 #### Background
-   An ambitious and up-and-coming playwright, Louise, is looking to fund her play, *Fever. There are many moving parts in producing a play and Louise has estimated the budget for her project will be just over $10000, an amount she is looking to gather via crowdfunding. Given the estimated cost, Louise is a little uneasy about proceeding with it, and as a result, she has reached out to me for help in her decision making. 
+   An ambitious and up-and-coming playwright, Louise, is looking to fund her play, *Fever*. There are many moving parts in producing a play and Louise has estimated the budget for her project will be just over $10000, an amount she is looking to gather via a Kickstarter campaign. Given the estimated cost, Louise is a little uneasy about proceeding, therefore she has reached out for help in her decision making. 
    
-   To help make Louise’s dream come true, I will be analyzing past theatrical production crowdfunding data on Kickstarter, especially those under the “play” category. In particular, I will be looking for common factors shared by successfully funded campaigns and apply similar methods to Louise’s Fever to give it the best chance at being fully funded. 
+   To help make Louise’s dream come true, past theatrical production crowdfunding data on Kickstarter will be analyzed, especially those under the “play” category. The analysis will look to reveal common factors shared by past successful campaigns and apply those methods to Louise’s campaign to give it the best chance at being fully funded. 
 <br/>
  
 ## Analysis and Challenges
-   The focus of the analysis is on Kickstarter campaigns under the “plays” category. The dataset from past Kickstarter campaigns ranges from 2009 to 2017. Two different analysis were conducted, “Theater Outcomes by Launch Date” and “Outcomes Based on Goals”. The first analysis focused on identifying whether certain month of the year had higher success rate in a campaign being fully funded. While the second analysis took an in-depth look at the correlation between a campaign’s funding goal and it’s success rate. 
+   The focus of the analyses is on Kickstarter campaigns under the “play” category. The dataset from past Kickstarter campaigns ranges from 2009 to 2017. Two different analyses are conducted, “Theater Outcomes by Launch Date” and “Outcomes Based on Goals”. The first analysis seeks to determine wether there is a correlation between month of the year and funding success rate. While the second analysis takes an in-depth look at the correlation between funding goal amount and success rate. 
 <br/>
 
 ### Analysis of Outcomes Based on Launch Date
-Although there were eight years of data presented, emphasis was given to individual months instead, due to the assumption that any individual year did not have any significant impact on campaigns being successful. Therefore, months across different years were grouped together in this analysis. 
-By sorting data through a pivot chart and sorting by successful campaigns, a line graph was generated showing that May in any given year had the most number of successful campaigns (111 campaigns, as shown in the chart below). As such, I will recommend Louise to launch her campaign in May as well to guaranteed the best odds of it succeeding.
+   Although there are eight years of data presented, emphasis is given to individual month instead, due to the assumption that any individual year did not have significant impact on the success rate. Therefore, months across different years were grouped together in this analysis. 
+   Before the data can be analyzed, a new helper column is created to extract the launch year of each campaign. Then a pivot table is created with two filters, one on "Parent Category" and another on the helper column, "Year". As aforementioned, emphasis is placed on launch date by month rather than by year. To accomplish this goal, all the years in the pivot table are grouped to show months only. In other words, data points across different years are tallied up to show monthly totals. At this point, the data can be sorted by successful campaigns, a line graph is used to visualize the findings (linked below). 
+   The line graph reveals that the month of May across different years has the most number of successful campaigns (111 campaigns or 13.2% of total). As such, it is recommended that Louise should launch her campaign in May to increase the likelihood of success.
 
 [Theater_Outcomes_vs_Launch.png](https://github.com/donovancai/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 <br/>
