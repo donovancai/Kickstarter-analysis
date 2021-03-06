@@ -23,7 +23,7 @@
 ### Analysis of Outcomes Based on Launch Date
    Although there are eight years of data presented, emphasis is given to individual month instead, due to the assumption that any individual year did not have significant impact on the success rate. Therefore, months across different years were grouped together in this analysis. 
    
-   Before the data can be analyzed, a new helper column is created to extract the launch year of each campaign. Then a pivot table is created with two filters, one on "Parent Category" and another on the helper column, "Year". As aforementioned, emphasis is placed on launch date by month rather than by year. To accomplish this goal, all the years in the pivot table are grouped to show months only. In other words, data points across different years are tallied up to show monthly totals. At this point, the data can be sorted by successful campaigns, a line graph is used to visualize the findings and it can be found here [Theater_Outcomes_vs_Launch.png](https://github.com/donovancai/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png). 
+   Before the data can be analyzed, a new helper column is created to extract the launch year of each campaign. Then a pivot table is created with two filters, one on "Parent Category" and another on the helper column, "Year". As aforementioned, emphasis is placed on launch date by month rather than by year. To accomplish this goal, all the years in the pivot table are grouped to show months only. In other words, data points across different years are tallied up to show monthly totals. At this point, the data can be sorted by successful campaigns, and a line graph is used to visualize the findings and it can be found here [Theater_Outcomes_vs_Launch.png](https://github.com/donovancai/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png). 
    
    The line graph reveals that the month of May across different years has the most number of successful campaigns (111 campaigns or 13.2% of total). As such, it is recommended that Louise should launch her campaign in May to increase the likelihood of success.
 <br/>
@@ -35,6 +35,9 @@
 <br/>
 
 ### Challenges and Difficulties Encountered
+   A major challenge encountered is during the analysis of Outcomes Based on Goals. 
+   
+   
    The biggest challenge trying to determine whether particular campaign goals had significant impact on success rate is the lack of data for campaigns with higher goals. Looking at the pivot table below showing the breakdown of the campaign goal categories, it can clearly be seen that the majority of data points are in the first five categories. As previously stated, campaign goals between $35000 to $39999 and $40000 to $44999 have success rates of 66.67%, but there were only 9 data points between the two categories. This is evidence that even if the chart is producing desiring results, one must determine whether there is truly enough underlying data to back it up. 
 
 [Outcomes_Pivot](https://github.com/donovancai/Kickstarter-analysis/blob/main/Resources/Outcome_vs_Goals_Pivot.PNG)
