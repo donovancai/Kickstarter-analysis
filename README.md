@@ -6,7 +6,7 @@
    This project aims to identify factors and trends in Kickstarter campaigns that were successfully funded in the past, particularly those in the “theatrical plays” category. Analysis will be completed by using Excel, with tools and methods such as pivot tables, pivot graphs and various formulae. By analyzing past successful campaigns, we can identify effective methods that can be applied to Louise’s campaign to help her become fully funded.
 <br/>  
    
-### Purpose
+## Purpose
    Kickstarter has many theater production campaigns and the most effective way for Louise to become successful on Kickstarter is by deciphering the receipt to success. By doing data analysis on past campaigns, Louise can level the playing field. 
 <br/>  
    
