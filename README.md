@@ -22,7 +22,9 @@
 
 ### Analysis of Outcomes Based on Launch Date
    Although there are eight years of data presented, emphasis is given to individual month instead, due to the assumption that any individual year did not have significant impact on the success rate. Therefore, months across different years were grouped together in this analysis. 
+   
    Before the data can be analyzed, a new helper column is created to extract the launch year of each campaign. Then a pivot table is created with two filters, one on "Parent Category" and another on the helper column, "Year". As aforementioned, emphasis is placed on launch date by month rather than by year. To accomplish this goal, all the years in the pivot table are grouped to show months only. In other words, data points across different years are tallied up to show monthly totals. At this point, the data can be sorted by successful campaigns, a line graph is used to visualize the findings (linked below). 
+   
    The line graph reveals that the month of May across different years has the most number of successful campaigns (111 campaigns or 13.2% of total). As such, it is recommended that Louise should launch her campaign in May to increase the likelihood of success.
 
 [Theater_Outcomes_vs_Launch.png](https://github.com/donovancai/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
