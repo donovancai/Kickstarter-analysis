@@ -35,13 +35,9 @@
 <br/>
 
 ### Challenges and Difficulties Encountered
-   A major challenge encountered is during the analysis of Outcomes Based on Goals. 
-   
-   
-   The biggest challenge trying to determine whether particular campaign goals had significant impact on success rate is the lack of data for campaigns with higher goals. Looking at the pivot table below showing the breakdown of the campaign goal categories, it can clearly be seen that the majority of data points are in the first five categories. As previously stated, campaign goals between $35000 to $39999 and $40000 to $44999 have success rates of 66.67%, but there were only 9 data points between the two categories. This is evidence that even if the chart is producing desiring results, one must determine whether there is truly enough underlying data to back it up. 
-
-[Outcomes_Pivot](https://github.com/donovancai/Kickstarter-analysis/blob/main/Resources/Outcome_vs_Goals_Pivot.PNG)
-
+  A challenge encountered is during the analysis of the Outcomes Based on Goals. By looking at the 12 categories of goal amounts ([Outcomes_Pivot](https://github.com/donovancai/Kickstarter-analysis/blob/main/Resources/Outcome_vs_Goals_Pivot.PNG), it can be identified that the distribution of data is positively skewed, as seen here [Distribution_of_Projects_by_Goal_Amounts.png] ( https://github.com/donovancai/Kickstarter-analysis/blob/main/Resources/Distribution_of_Projects_by_Goal_Amounts.png). It can be spotted that the bulk of the data are in the first three categories (889 out of the total 1043 data points, or 85%).  Upon conducting statistical analysis on the breakdown of column E, “Total Projects”, the sample mean is 86.92, sample median is 16 and the sample standard deviation is 154.96; these sample statistics show there is huge variance in the data.
+  
+ Given that Louise’s budget is greater than $10000, the recommendation suggested in the section above, “Analysis of Outcomes Based on Goals”, is based on the outcomes of goal amounts between $5000 to $19999. The challenge in this analysis is that there are only 96 data points between these two goal amounts, which is roughly only 9.2% of the total. Due to the lack of data points that coincides with Louise’s budget of over $10000, there is not enough data to form a statistically significant conclusion that these 96 data points are representative of the population.
 
 ## Results
 
