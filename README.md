@@ -1,4 +1,5 @@
-# Kickstarting ***Fever***: An Analysis
+# Kickstarting ***Fever***
+*An Analysis*
 >  For Louise
 
 
@@ -6,12 +7,12 @@
    This project aims to identify factors and trends in Kickstarter campaigns that were successfully funded in the past, particularly those in the “theatrical plays” category. Analysis will be completed by using Excel, with tools and methods such as pivot tables, pivot graphs and various formulae. By analyzing past successful campaigns, we can identify effective methods that can be applied to Louise’s campaign to help her become fully funded.
 <br/>  
    
-## Purpose
-   Kickstarter has many theater production campaigns and the most effective way for Louise to become successful on Kickstarter is by deciphering the receipt to success. By doing data analysis on past campaigns, Louise can level the playing field. 
+### Purpose
+   There are many Kickstarter campaigns for theater productions and the most effective way for Louise to become successful on Kickstarter is by deciphering the receipt to success. By conducting data analysis on past campaigns, Louise can level the playing field. 
 <br/>  
    
 #### Background
-   An ambitious and up-and-coming playwright, Louise, is looking to fund her play, Fever. There are many moving parts in producing a play and Louise has estimated the budget for her project will be just over $10000, an amount she is looking to gather via crowdfunding. Given the estimated cost, Louise is a little uneasy about proceeding with it, and as a result, she has reached out to me for help in her decision making. 
+   An ambitious and up-and-coming playwright, Louise, is looking to fund her play, ***Fever***. There are many moving parts in producing a play and Louise has estimated the budget for her project will be just over $10000, an amount she is looking to gather via crowdfunding. Given the estimated cost, Louise is a little uneasy about proceeding with it, and as a result, she has reached out to me for help in her decision making. 
    
    To help make Louise’s dream come true, I will be analyzing past theatrical production crowdfunding data on Kickstarter, especially those under the “play” category. In particular, I will be looking for common factors shared by successfully funded campaigns and apply similar methods to Louise’s Fever to give it the best chance at being fully funded. 
 <br/>
