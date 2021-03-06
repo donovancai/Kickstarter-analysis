@@ -31,13 +31,9 @@
 <br/>
 
 ### Analysis of Outcomes Based on Goals
-   In this analysis, the focus was on successs rates among different fundraising goal amounts. To better quantify the data, 12 categories of goal amounts are created. The exact breakdown can be seen in [Outcomes_vs_Goals.png](https://github.com/donovancai/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png). 
+   In this analysis, the focus was on successs rates among different fundraising goal amounts. To better quantify the data, 12 categories of goal amounts are created. Each category is further broken down to show both the counts of successful, failed and canceled campaigns and the corresponding percentages.  The whole breakdown can be seen in [Outcomes_vs_Goals.png](https://github.com/donovancai/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png).
    
-   It can be seen that campaigns with goals less than $1000 has the highest success rate at 75.81%. Given Louise’s budget of just over $10000, historic data shows campaigns with goals between $10000 to $14999 only had a success rate of 54.17%, while failure in that same category was 45.83%. Although campaigns with goals less than $1000 has the highest success rate, it is unlikely that Louise will be able to pull off the production with that amount. 
-   
-   overall, Campaigns with goals less than $4999 have over 72% success rate, and campaigns with goals between $5000 to $19999 have success rates of about 53%. Louis should reconsider her $10000 budget for the play if she were to have a higher chance at success.
-   
-
+   It can be seen that campaigns with goals less than $1000 has the highest success rate at 75.81%. This success rate while looking great, it does not fit into this analysis criteria as Louise budgeted her production to cost more than $10000. Looking at the category for goal amounts between $10000 to $14999, it has a success rate of 54.17%, while failure rate is 45.83%. The next category is goal amounts between $15000 to $19999, with a success and failure rates of 50% each. From these statistics, it can be interpreted that about half of the campaigns launched with goal amounts between $10000 to $19999 do not succeed. Overall, campaigns with goal amounts less than $4999 have over 72% success rate, while goal amounts between $5000 to $19999 have success rates of about 53%. Consequently, Louis should readjust and lower her budget for the play to have a higher chance at success.
 <br/>
 
 ### Challenges and Difficulties Encountered
